@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
-import "./App.css";
-import { CountButton } from "./CountButton";
+import "./App.module.css";
+import { CountButton } from "../CountButton";
 
 function App() {
   return (
