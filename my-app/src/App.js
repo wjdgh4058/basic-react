@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img tabIndex={0} src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>fldorxm tlwkrgkqslek</code> and save to reload.
         </p>
